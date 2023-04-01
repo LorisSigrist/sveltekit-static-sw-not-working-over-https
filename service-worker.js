@@ -1,13 +1,13 @@
 const e = /* @__PURE__ */ location.pathname.split("/").slice(0, -1).join("/"), l = [
-  e + "/_app/immutable/entry/app.114f42e6.js",
+  e + "/_app/immutable/entry/app.4b98342e.js",
   e + "/_app/immutable/chunks/0.0d1092c2.js",
-  e + "/_app/immutable/chunks/1.a44f69f0.js",
+  e + "/_app/immutable/chunks/1.79aa11cb.js",
   e + "/_app/immutable/chunks/2.09f92aaf.js",
   e + "/_app/immutable/chunks/_layout.da46b06b.js",
   e + "/_app/immutable/chunks/index.33fbba09.js",
-  e + "/_app/immutable/chunks/singletons.f57aeb51.js",
-  e + "/_app/immutable/entry/start.8321eb7c.js",
-  e + "/_app/immutable/entry/error.svelte.4a04853e.js",
+  e + "/_app/immutable/chunks/singletons.30da342b.js",
+  e + "/_app/immutable/entry/start.dcd35972.js",
+  e + "/_app/immutable/entry/error.svelte.2168ef66.js",
   e + "/_app/immutable/entry/layout.svelte.b56ece7e.js",
   e + "/_app/immutable/entry/_layout.js.984db11e.js",
   e + "/_app/immutable/entry/_page.svelte.3717b407.js"
@@ -16,7 +16,7 @@ const e = /* @__PURE__ */ location.pathname.split("/").slice(0, -1).join("/"), l
   e + "/favicon.png"
 ], r = [
   e + "/"
-], u = "1680353969397", n = `cache-${u}`, i = [
+], u = "1680380721331", n = `cache-${u}`, i = [
   ...l,
   // the app itself
   ...p,
