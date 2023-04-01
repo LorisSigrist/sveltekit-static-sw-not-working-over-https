@@ -7,3 +7,7 @@ This repository is a test to see if it was my problem, or the frameworks.
 My questions remain unanswered, since this seems to work just fine. The search continues.
 
 I'm gonna try to update sveltekit in my main project, and copy-paste in this battle hardened service worker I got here. Let's see if that works :)
+
+
+**Update**
+- Substituting the SW in my project with this one made it work in safari. Still no Idea what's going on in chromium
